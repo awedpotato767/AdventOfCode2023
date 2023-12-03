@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/charlieh/Documents/_Alevel/Advent of code 2023/1",
+  "command": "/usr/bin/cc    -o CMakeFiles/Program.dir/main.c.o -c \"/home/charlieh/Documents/_Alevel/Advent of code 2023/1/main.c\"",
+  "file": "/home/charlieh/Documents/_Alevel/Advent of code 2023/1/main.c",
+  "output": "CMakeFiles/Program.dir/main.c.o"
+}
+]
